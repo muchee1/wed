@@ -2,4 +2,6 @@ machie wijeitilaka
 test file 
 please check it 
 
+this is test to see "wed " repository is working or not "
+
 
